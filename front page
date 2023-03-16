@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vernacular High School</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.15/tailwind.min.css">
+</head>
+<body>
+  <header class="bg-gray-900 text-white">
+    <div class="container mx-auto px-4 py-6">
+      <h1 class="text-3xl">Vernacular High School</h1>
+      <nav class="flex justify-end mt-4">
+        <ul class="flex">
+          <li class="mr-6"><a href="#" class="hover:text-gray-400">Home</a></li>
+          <li class="mr-6"><a href="#" class="hover:text-gray-400">About</a></li>
+          <li class="mr-6"><a href="#" class="hover:text-gray-400">Admissions</a></li>
+          <li class="mr-6"><a href="#" class="hover:text-gray-400">Academics</a></li>
+          <li><a href="#" class="hover:text-gray-400">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="container mx-auto px-4 py-6">
+      <section class="bg-gray-100 py-12">
+        <div class="max-w-4xl mx-auto text-center">
+          <h2 class="text-3xl font-semibold mb-4">Welcome to Vernacular High School</h2>
+          <p class="text-lg mb-8">We are committed to providing high-quality education to our students and preparing them for a successful future.</p>
+          <a href="#" class="bg-gray-900 text-white py-2 px-6 rounded-lg hover:bg-gray-700">Apply Now</a>
+        </div>
+      </section>
+      <section class="py-12">
+        <div class="max-w-4xl mx-auto text-center">
+          <h3 class="text-2xl font-semibold mb-4">Why Choose Vernacular High School?</h3>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8">
+            <div class="bg-white rounded-lg shadow-lg px-4 py-6">
+              <img src="https://via.placeholder.com/150" alt="feature" class="mx-auto mb-4">
+              <h4 class="text-lg font-semibold mb-2">Experienced Faculty</h4>
+              <p class="text-base">Our faculty members are experienced and dedicated to providing the best education to our students.</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg px-4 py-6">
+              <img src="https://via.placeholder.com/150" alt="feature" class="mx-auto mb-4">
+              <h4 class="text-lg font-semibold mb-2">Advanced Curriculum</h4>
+              <p class="text-base">We offer a comprehensive and advanced curriculum that prepares our students for a successful future.</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg px-4 py-6">
+              <img src="https://via.placeholder.com/150" alt
